@@ -1,0 +1,35 @@
+Welcome to Solstice mod!
+
+A mod filled with magic and wonders!
+
+Version 0.1.1
+
+TODO List
+
+- Darkness Monster (AI) upgrade
+
+v0.2
+- Light magic themed items, monsters and boss.
+- More Dark magic weapons
+- (maybe) More darkness monsters
+
+v1.0
+- Magic themed stuff all through hardmode
+- Banners for enemies
+- Trophies for bosses
+
+Changelog
+
+v0.1.1
+- Added 1 new buff, Darkness Incense
+- Added 1 new miniboss, Darkness Shark
+- Added 4 new enemies
+- Added 1 new item, Darkness Incense
+- Edited Treasure bag sprite
+- Renamed mod to Solstice mod from Caves mod
+
+v0.1
+- Added 1 new buff, Darkness Flames
+- Added 1 new boss, Darkness Monster
+- Added 2 new enemies
+- Added 13 new items, including weapons, materials etc.
