@@ -2,7 +2,7 @@ Welcome to Solstice mod!
 
 A mod filled with magic and wonders!
 
-Version 0.1.1
+Version 0.1.1.1
 
 TODO List
 
@@ -19,6 +19,13 @@ v1.0
 - Trophies for bosses
 
 Changelog
+
+v0.1.1.2
+- Linked to GitHub
+
+v0.1.1.1
+- Changed values of items
+- Added mod icon
 
 v0.1.1
 - Added 1 new buff, Darkness Incense

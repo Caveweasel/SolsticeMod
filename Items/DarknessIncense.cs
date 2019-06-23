@@ -20,7 +20,7 @@ namespace SolsticeMod.Items
             item.width = 22;
             item.height = 14;
             item.maxStack = 30;
-            item.value = 0;
+            item.value = 4000;
             item.rare = 1;
             item.useAnimation = 30;
             item.useTime = 30;

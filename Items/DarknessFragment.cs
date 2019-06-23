@@ -15,7 +15,7 @@ namespace SolsticeMod.Items
 			item.width = 18;
 			item.height = 18;
 			item.maxStack = 999;
-			item.value = 1500;
+			item.value = 2500;
 			item.rare = 1;
 		}
 
